@@ -11,7 +11,7 @@ Dialog = QtWidgets.QDialog()
 ui = Ui_Dialog()
 ui.setupUi(Dialog)
 Dialog.show()
-
+#
 
 # Hook Logic
 def get_weather_city():
